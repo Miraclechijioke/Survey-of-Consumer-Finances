@@ -15,6 +15,6 @@ houses: Total value of primary residence of household, 2019 dollars
 inccat: Categorizes the Income percentile groups.
 asset: Total value of assets held by household, 2019 dollars
 These features will be used to segment the households and explore the differences between clusters.
-
+VIEW BRANCH
 Relevance
 Understanding the characteristics of households that are turned down for credit or fear credit denial is crucial for improving financial services and policies. By clustering these households based on their debt, education, housing, and income categories, this project aims to reveal distinct patterns and insights. This can help financial institutions design more tailored and effective credit products and support services, and assist policymakers in addressing issues related to credit access and financial inclusion.
